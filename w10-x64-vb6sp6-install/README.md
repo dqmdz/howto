@@ -13,7 +13,7 @@ This is a step by step guide to install Visual Basic 6 Service Pack 6 on Windows
 $ extract vs6sp6.zip
 ```
 
-### Rename vs98ent.stf to ACMSETUP.stf in Setup directory
+### Rename vs698ent.stf to ACMSETUP.stf in Setup directory
 ```sh
 $ mv vs98ent.stf ACMSETUP.stf
 ```
